@@ -13,7 +13,6 @@
 - **Spring Boot**: Framework Java para o desenvolvimento do backend 🚀.
 - **Spring Data JPA**: Integração com banco de dados 🗃️.
 - **H2 Database**: Banco de dados em memória (pode ser configurado para MySQL, PostgreSQL, etc.) 🗄️.
-- **Thymeleaf**: Motor de templates para as páginas HTML ✨.
 - **Maven**: Gerenciador de dependências e build do projeto 🛠️.
 
 ## 🛠️ Como Rodar o Projeto
