@@ -1,4 +1,4 @@
-package com.andrew.agendamento;
+package com.andrew.agendamento.agendamento;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

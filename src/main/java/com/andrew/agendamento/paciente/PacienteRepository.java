@@ -1,8 +1,8 @@
-package com.andrew.agendamento;
+package com.andrew.agendamento.paciente;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public interface MedicoRepository extends JpaRepository<Medico, Long>{
+public interface PacienteRepository extends JpaRepository<Paciente, Long > {
 }

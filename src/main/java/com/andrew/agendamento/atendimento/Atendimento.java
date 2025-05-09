@@ -1,5 +1,6 @@
-package com.andrew.agendamento;
+package com.andrew.agendamento.atendimento;
 
+import com.andrew.agendamento.agendamento.Agendamento;
 import jakarta.persistence.*;
 import lombok.Data;
 

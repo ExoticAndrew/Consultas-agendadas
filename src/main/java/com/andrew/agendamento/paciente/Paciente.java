@@ -1,4 +1,4 @@
-package com.andrew.agendamento;
+package com.andrew.agendamento.paciente;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;

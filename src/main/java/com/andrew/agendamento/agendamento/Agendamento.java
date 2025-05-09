@@ -1,10 +1,11 @@
-package com.andrew.agendamento;
+package com.andrew.agendamento.agendamento;
 
+import com.andrew.agendamento.medico.Medico;
+import com.andrew.agendamento.paciente.Paciente;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.FutureOrPresent;
 import lombok.Data;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 @Entity

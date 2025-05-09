@@ -1,4 +1,4 @@
-package com.andrew.agendamento;
+package com.andrew.agendamento.atendimento;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
